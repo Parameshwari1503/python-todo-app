@@ -26,11 +26,19 @@ It helps beginners understand basic Python concepts like:
 - Lists
 - Loops
 - Functions
-
 ## 🚀 Future Improvements
-- Add GUI using Tkinter
+
+- Add GUI
 - Save tasks in file/database
-- Add edit option
+- add edit option
+
+  ## 🚀 Future Improvements
+
+- Add GUI using Tkinter
+- Save tasks in a file (so data won't be lost)
+- Add edit task option
+- Add due date for tasks
+- Improve user interface
 
 ## 👩‍💻 Author
 A. Parameshwari  
