@@ -33,4 +33,6 @@ It helps beginners understand basic Python concepts like:
 - Add edit option
 
 ## 👩‍💻 Author
-Your Name
+A. Parameshwari  
+Python Developer  
+GitHub: https://github.com/Parameshwari1503
